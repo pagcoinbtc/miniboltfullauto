@@ -65,7 +65,7 @@ Você receberá uma mensagem de erro de `not found`, ou algo semelhante.
 
 E depois de o seguinte comando, para copiar o repositório:
 ```bash
-git clone https://github.com/pagcoinbtc/miniboltfullauto.git
+git clone https://github.com/pagcoinbtc/brlnfullauto.git
 ```
 
 Agora acesse o diretório copiado, com o seguinte comando:
